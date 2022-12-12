@@ -1,1 +1,14 @@
 @import url(../vendor/normalize.css);
+@import url(../vendor/fonts/Inter/inter.css);
+@import url(../bloks/page/page.css);
+@import url(../bloks/header/header.css);
+@import url(../bloks/header/__logo/header__logo.css);
+@import url(../bloks/header/__lang/header__lang.css);
+@import url(../bloks/header/__lang/_link/header__lang_link.css);
+@import url(../bloks/header/__lang/_text/header__lang_text.css);
+@import url(../bloks/link/link.css);
+@import url(../bloks/intro/__title/intro__title.css);
+@import url(../bloks/intro/__subtitle/intro__subtitle.css);
+@import url(../bloks/intro/__pic/intro__pic.css);
+@import url(../bloks/intro/__underline/intro__underline.css);
+@import url(../bloks/intro/__pic-wrap/intro__pic-wrap.css);
