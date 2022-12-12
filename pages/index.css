@@ -12,3 +12,14 @@
 @import url(../bloks/intro/__pic/intro__pic.css);
 @import url(../bloks/intro/__underline/intro__underline.css);
 @import url(../bloks/intro/__pic-wrap/intro__pic-wrap.css);
+@import url(../bloks/photo-table/photo-table.css);
+@import url(../bloks/photo-table/__cell/photo-table__cell.css);
+@import url(../bloks/photo-table/__pic/photo-table__pic.css);
+@import url(../bloks/section-title/section-title.css);
+@import url(../bloks/section-text/section-text.css);
+@import url(../bloks/about/about.css);
+@import url(../bloks/about/__wrap/about__wrap.css);
+@import url(../bloks/about/__title/about__title.css);
+@import url(../bloks/about/__text/about__text.css);
+@import url(../bloks/about/__details/about__details.css);
+@import url(../bloks/about/__details/_count/about__details_count.css);

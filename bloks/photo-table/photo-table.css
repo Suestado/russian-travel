@@ -1,0 +1,22 @@
+.photo-table {
+  max-width:             calc(1184px + 2 * 48px);
+  padding:               0 48px;
+  margin:                0 auto 92px;
+  display:               grid;
+  grid-gap:              16px;
+  grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
+  }
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .photo-table {
+    padding: 0 24px;
+    margin:  0 auto 88px;
+    }
+  }
+
+@media screen and (max-width: 767px) {
+  .photo-table {
+    padding: 0 16px;
+    margin:  0 auto 64px;
+    }
+  }

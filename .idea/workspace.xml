@@ -1,31 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="795d74eb-c083-4378-9fb6-31333b294103" name="Changes" comment="Project initialisation (html &amp; file structure created)">
+    <list default="true" id="795d74eb-c083-4378-9fb6-31333b294103" name="Changes" comment="Changes:&#10;- Header &amp; intro added&#10;- Font smoothing&#10;- Text rendering&#10;- Unused fonts deleted">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fonts/Inter/Inter-BlackItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fonts/Inter/Inter-BlackItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fonts/Inter/Inter-BoldItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fonts/Inter/Inter-BoldItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fonts/Inter/Inter-ExtraBoldItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fonts/Inter/Inter-ExtraBoldItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fonts/Inter/Inter-ExtraLightItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fonts/Inter/Inter-ExtraLightItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fonts/Inter/Inter-Italic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fonts/Inter/Inter-Italic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fonts/Inter/Inter-LightItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fonts/Inter/Inter-LightItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fonts/Inter/Inter-MediumItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fonts/Inter/Inter-MediumItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fonts/Inter/Inter-SemiBoldItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fonts/Inter/Inter-SemiBoldItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fonts/Inter/Inter-ThinItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fonts/Inter/Inter-ThinItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fonts/Inter/Inter-italic.var.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fonts/Inter/Inter.var.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fonts/Inter/inter.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/Inter/inter.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +32,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2IllVG3cwM01yL22w74xIBjMECp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -86,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670764073477</updated>
-      <workItem from="1670764076866" duration="18104000" />
+      <workItem from="1670764076866" duration="27704000" />
     </task>
     <task id="LOCAL-00001" summary="Project initialisation (html &amp; file structure created)">
       <created>1670766260527</created>
@@ -95,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670766260527</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changes:&#10;- Header &amp; intro added&#10;- Font smoothing&#10;- Text rendering&#10;- Unused fonts deleted">
+      <created>1670870341879</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670870341879</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project initialisation (html &amp; file structure created)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project initialisation (html &amp; file structure created)" />
+    <MESSAGE value="Changes:&#10;- Header &amp; intro added&#10;- Font smoothing&#10;- Text rendering&#10;- Unused fonts deleted" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes:&#10;- Header &amp; intro added&#10;- Font smoothing&#10;- Text rendering&#10;- Unused fonts deleted" />
   </component>
 </project>
