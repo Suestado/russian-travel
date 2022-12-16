@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="795d74eb-c083-4378-9fb6-31333b294103" name="Changes" comment="Changes:&#10;- Footer added">
+    <list default="true" id="795d74eb-c083-4378-9fb6-31333b294103" name="Changes" comment="Changes:&#10;- README file updated&#10;- Code refactored">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloks/about/__wrap/about__wrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloks/about/__wrap/about__wrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/about/__text/about__text.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloks/about/__text/about__text.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bloks/about/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloks/about/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloks/advertise/__title/advertise__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloks/advertise/__title/advertise__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloks/advertise/advertise.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloks/advertise/advertise.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloks/footer/__links/footer__links.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloks/footer/__links/footer__links.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloks/intro/__subtitle/intro__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloks/intro/__subtitle/intro__subtitle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloks/intro/__title/intro__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloks/intro/__title/intro__title.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bloks/main-content/main-content.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloks/main-content/main-content.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloks/photo-table/photo-table.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloks/photo-table/photo-table.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloks/section-title/section-title.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloks/section-title/section-title.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670764073477</updated>
-      <workItem from="1670764076866" duration="75265000" />
+      <workItem from="1670764076866" duration="76525000" />
     </task>
     <task id="LOCAL-00001" summary="Project initialisation (html &amp; file structure created)">
       <created>1670766260527</created>
@@ -118,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671207472294</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Changes:&#10;- README file updated&#10;- Code refactored">
+      <created>1671216644995</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671216644995</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +140,7 @@
     <MESSAGE value="Changes:&#10;- Section &quot;About&quot; added&#10;- Photo table (grid) added" />
     <MESSAGE value="Changes:&#10;- Main content added&#10;- Bottom link to add materials added" />
     <MESSAGE value="Changes:&#10;- Footer added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes:&#10;- Footer added" />
+    <MESSAGE value="Changes:&#10;- README file updated&#10;- Code refactored" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes:&#10;- README file updated&#10;- Code refactored" />
   </component>
 </project>
