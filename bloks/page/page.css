@@ -3,6 +3,7 @@
   font-family: 'Inter', Arial, sans-serif;
   font-style:  normal;
   color:       #FFFFFF;
+  line-height: 0;
 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

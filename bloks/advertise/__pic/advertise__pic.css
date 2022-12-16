@@ -1,0 +1,13 @@
+.advertise__pic {
+  width:             100%;
+  background:        #2A2C2F;
+  opacity:           .3;
+  grid-column-start: 1;
+  grid-column-end:   2;
+  grid-row-start:    1;
+  grid-row-end:      2;
+  }
+
+.advertise__pic:hover {
+  opacity: .8;
+  }
