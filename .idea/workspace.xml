@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="795d74eb-c083-4378-9fb6-31333b294103" name="Changes" comment="Changes:&#10;- Final project (first review)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/about/__details/_count/about__details_count.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloks/about/__details/__details-count/about__details-count.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/header/__lang/_link/header__lang_link.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloks/header/__lang-link/header__lang-link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/header/__lang/_text/header__lang_text.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloks/header/__lang-text/header__lang-text.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +63,10 @@
       <recent name="$PROJECT_DIR$/vendor" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bloks/about/__details/__details-count" />
+      <recent name="$PROJECT_DIR$/bloks/header/__lang-text" />
+      <recent name="$PROJECT_DIR$/bloks/header/__lang-link" />
+      <recent name="$PROJECT_DIR$/bloks/header/__lang" />
       <recent name="$PROJECT_DIR$/bloks/main-content" />
     </key>
   </component>
@@ -70,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670764073477</updated>
-      <workItem from="1670764076866" duration="77331000" />
+      <workItem from="1670764076866" duration="78297000" />
     </task>
     <task id="LOCAL-00001" summary="Project initialisation (html &amp; file structure created)">
       <created>1670766260527</created>
@@ -121,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671218093039</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Changes:&#10;- Final project (first review)">
+      <created>1671218656657</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1671218656657</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

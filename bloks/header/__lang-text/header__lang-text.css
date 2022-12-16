@@ -1,4 +1,4 @@
-.header__lang_text {
+.header__lang-text {
   margin:      0;
   padding:     0;
   font-weight: 400;
@@ -6,13 +6,13 @@
   line-height: 28px;
   }
 
-.header__lang_text:focus {
+.header__lang-text:focus {
   text-decoration-line: underline;
   }
 
 @media screen and (max-width: 767px) {
 
-  .header__lang_text {
+  .header__lang-text {
     font-size:   18px;
     line-height: 20px;
     }
