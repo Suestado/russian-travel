@@ -37,3 +37,7 @@
 @import url(../bloks/advertise/__header/advertise__header.css);
 @import url(../bloks/advertise/__text/advertise__text.css);
 @import url(../bloks/advertise/__title/advertise__title.css);
+@import url(../bloks/footer/footer.css);
+@import url(../bloks/footer/__links/footer__links.css);
+@import url(../bloks/footer/__link/footer__link.css);
+@import url(../bloks/footer/__copyright/footer__copyright.css);

@@ -1,6 +1,7 @@
 .link {
   text-decoration: none;
   color:           #fff;
+  transition: ease-in-out .3s;
   }
 
 .link:hover {
