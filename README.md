@@ -1,23 +1,56 @@
-# Проект: Путешествие по России
+<a name="readme-top"></a>
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+<div align="right">
+  <a href="https://practicum.yandex.ru">
+    <img src="https://github.com/Suestado/how-to-learn/raw/main/images/logo_place_header.svg" alt="Yandex Praktikum" width="228" height="32">
+  </a>
 
-**Интро**
+<h1 align="center">Russian travel web site</h1>
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+  <p align="center">
+    Short page about how to travel in Russia.
+  </p>
+</div>
 
-**Figma**
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+## About The Project
+____
 
-**Картинки**
+The page contains information about some beautiful and interesting places that are worth visiting if you live in Russia or come as a tourist.
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
 
-Удачи!
+
+### Built With
+____
+
+The page is made using the basic and most used HTML & CSS tools.
+The block model of the document allows you to use blocks on other pages and sites.
+
+* HTML
+  * relevant semantic
+  * images
+  * links
+* CSS
+  * BEM structure
+  * flex
+  * grid
+  * adaptive layout
+  * media queries
+  * animation
+
+### Roadmap
+____
+
+- [x] Make a BEM file structure
+- [x] Add animation
+- [x] Add links to third-party resources
+- [x] Make adaptive layout for different devices
+- [ ] Add information about new interesting places
+- [ ] Add an English version of the site
+
+## Contact
+____
+
+Sergey Kiselev - [GitHub](https://github.com/Suestado)
+
+Project Link: [https://github.com/Suestado/russian-travel](https://github.com/Suestado/russian-travel)

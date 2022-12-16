@@ -10,6 +10,16 @@
   text-align:  center;
   }
 
+@media screen and (max-width: 767px) {
+  .intro__title {
+    margin:      0 auto 16px;
+    width:       calc(100vw * 0.964 - 20.48px);
+    height:      calc(100vw * 0.257 + 2.624px);
+    font-size:   calc(100vw * 0.125);
+    line-height: calc(100vw * 0.125 + 4px);
+    }
+  }
+
 @media screen and (max-width: 320px) {
   .intro__title {
     margin:      0 auto 16px;
@@ -20,15 +30,7 @@
     }
   }
 
-@media screen and (max-width: 768px) {
-  .intro__title {
-    margin:      0 auto 16px;
-    width:       calc(100vw * 0.964 - 20.48px);
-    height:      calc(100vw * 0.257 + 2.624px);
-    font-size:   calc(100vw * 0.125);
-    line-height: calc(100vw * 0.125 + 4px);
-    }
-  }
+
 
 
 

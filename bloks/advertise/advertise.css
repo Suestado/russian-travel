@@ -7,8 +7,19 @@
   background:            url(../../images/cover-trains.jpg) no-repeat center;
   background-size:       cover;
   overflow:              hidden;
-  z-index:               2;
   text-decoration:       none;
+  }
+
+@media screen and (max-width: 1023px) {
+  .advertise {
+    margin: 89px 0;
+    }
+  }
+
+@media screen and (max-width: 767px) {
+  .advertise {
+    margin: 66px 0 64px;
+    }
   }
 
 

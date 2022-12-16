@@ -1,6 +1,10 @@
-@media screen and (min-width: 1024px) {
+.about__wrap {
+  max-width: 690px;
+  }
+
+@media screen and (max-width: 1023px) {
   .about__wrap {
-    max-width: 690px;
+    max-width: 720px;
     }
   }
 
