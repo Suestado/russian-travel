@@ -1,0 +1,23 @@
+.lead__image-wrap {
+    max-width:  984px;
+    margin: 0 auto 92px;
+    }
+
+@media screen and (max-width: 1279px) {
+  .lead__image-wrap {
+    max-width:  928px;
+    margin: 0 auto 92px;
+    }
+  }
+
+@media screen and (max-width: 927px) {
+  .lead__image-wrap {
+    margin: 0 auto 88px;
+    }
+  }
+
+@media screen and (max-width: 767px) {
+  .lead__image-wrap {
+    margin:    0 auto 64px;
+    }
+  }

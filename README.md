@@ -53,4 +53,4 @@ ____
 
 Sergey Kiselev - [GitHub](https://github.com/Suestado)
 
-Project Link: [https://github.com/Suestado/russian-travel](https://github.com/Suestado/russian-travel)
+Project Link: [https://suestado.github.io/russian-travel/](https://suestado.github.io/russian-travel/)
