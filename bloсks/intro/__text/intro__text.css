@@ -1,11 +1,11 @@
-.intro__wrap {
+.intro__text {
   max-width: 690px;
+  margin:    0 0 33px;
+  font-size: 16px;
   }
 
 @media screen and (max-width: 1023px) {
-  .intro__wrap {
+  .intro__text {
     max-width: 720px;
     }
   }
-
-

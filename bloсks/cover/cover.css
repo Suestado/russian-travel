@@ -11,19 +11,6 @@
   z-index:         3;
   }
 
-@media screen and (max-width: 1023px) {
-  .cover {
-    margin: 89px 0;
-    }
-  }
-
-@media screen and (max-width: 767px) {
-  .cover {
-    margin: 66px 0 64px;
-    }
-  }
-
-
 .cover::after {
   content:    "";
   position:   absolute;
@@ -37,4 +24,16 @@
 
 .cover:hover::after {
   opacity: .8;
+  }
+
+@media screen and (max-width: 1023px) {
+  .cover {
+    margin: 89px 0;
+    }
+  }
+
+@media screen and (max-width: 767px) {
+  .cover {
+    margin: 66px 0 64px;
+    }
   }
